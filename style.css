@@ -1,0 +1,27 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.carousel {
+    position: relative;
+    background-origin: padding-box;
+    border: 5px
+}
+
+.container {
+    max-height: 200px
+}
+
+#icon img {
+    padding-left: 10%;
+}
+
+#icon {
+    padding-top: 10%;
+    width: 80%;
+    height: 80%;
+}
+
+.background {
+    background: linear-gradient(#4b0066, #000000);   
+   }
